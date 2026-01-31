@@ -13,7 +13,7 @@
 
 ## 🖼️ Project Demo
 
-![Dreamify Interface Screenshot](path/to/your/screenshot.png)
+![Dreamify Interface Screenshot]("C:\Users\91972\OneDrive\Pictures\Screenshots\Screenshot 2026-01-31 160656.png")
 *(Note: Replace this line with a screenshot of your Gradio interface running)*
 
 ---
