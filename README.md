@@ -9,12 +9,6 @@
 
 **Dreamify** is a Multimodal Generative AI application that acts as your personal interior designer. It uses a chained-model approach: **GPT-2** functions as a creative director ("D-Zen") to brainstorm detailed design concepts, which are then visualized into photorealistic images using **Stable Diffusion**.
 
----
-
-## 🖼️ Project Demo
-
-![Dreamify Interface Screenshot]("C:\Users\91972\OneDrive\Pictures\Screenshots\Screenshot 2026-01-31 160656.png")
-*(Note: Replace this line with a screenshot of your Gradio interface running)*
 
 ---
 
